@@ -1,4 +1,11 @@
-### Hi there 👋
+![Hello!](termblink.gif)
+
+
+# 🔵 We do indeed have in our midst... a user! 🟠
+
+I'm Julian. Here, you'll find all of my published projects and experiments. Feel free to look around!
+
+Contact: juliankuy@duck.com
 
 <!--
 **juliankuyumcu/juliankuyumcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
