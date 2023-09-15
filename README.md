@@ -5,6 +5,8 @@
 
 I'm Julian. Here, you'll find all of my published projects and experiments. Feel free to look around!
 
+Site: [juliankuyumcu.github.io](https://juliankuyumcu.github.io)
+
 Contact: juliankuy@duck.com
 
 <!--
