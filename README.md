@@ -1,4 +1,4 @@
-![Hello!](termblink.gif)
+![Hey there...](heythere.gif)
 
 
 # 🔵 We do indeed have in our midst... a user! 🟠
